@@ -1,0 +1,6 @@
+target
+.idea/
+JavaProjectTemplate.iml
+*.zip
+.DS_Store
+*.bkp
